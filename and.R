@@ -3,9 +3,9 @@
 
 checkifand <- function(word){
   if(word == "and"){
-    return("TRUE")
+    return(TRUE)
   }else{
-    return("FALSE")
+    return(FALSE)
   }
 }
 # test 
