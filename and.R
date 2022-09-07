@@ -11,3 +11,4 @@ checkifand <- function(word){
 # test 
 checkifand("no")
 checkifand("and")
+
